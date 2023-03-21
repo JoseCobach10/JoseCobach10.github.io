@@ -1,0 +1,17 @@
+#boton{
+	padding: 0,
+}
+
+#boton li{
+	display: inline;
+}
+
+#button lia{
+	font-family: arial;
+	font-size: 11px;
+	text-decoration: none;
+	float: left;
+	poading: 10px;
+	background-color:  #2175bc;
+	color: #fff;
+}
